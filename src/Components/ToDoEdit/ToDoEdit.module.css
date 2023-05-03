@@ -1,0 +1,16 @@
+.form-edit {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  font-size: 1.3rem;
+  align-items: center;
+  justify-content: center;
+}
+.form-edit label {
+  display: block;
+}
+.form-edit input {
+  display: block;
+  padding: 2px;
+  font-size: 1.3rem;
+}

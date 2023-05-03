@@ -1,0 +1,22 @@
+.container-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 33vh;
+}
+.todo-form lable {
+  margin-right: 1.5rem;
+  display: inline-block;
+  font-size: 1.8rem;
+}
+.todo-form input {
+  width: 20rem;
+  padding: 8px;
+  margin-right: 1.5rem;
+}
+.todo-form button {
+  padding: 8px 40px;
+  cursor: pointer;
+  background-color: #b9e1e7;
+}
